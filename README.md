@@ -5,3 +5,5 @@
 
 1. Proses Pertama Membuat file baru di VSCode dan menambahkan  judul "Tag Dasar HTML" 
 ![img]SS/proses1.jpeg
+2. Membuat Judul Paragraf Pertama "Belajar HTML"
+![img]SS/proses2.jpeg
